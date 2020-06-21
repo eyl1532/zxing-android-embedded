@@ -1,4 +1,4 @@
-# ZXing Android Embedded
+# ZXing Android Embedded Fork by Elliot
 
 Barcode scanning library for Android, using [ZXing][2] for decoding.
 
